@@ -80,13 +80,15 @@ button:hover {
 .option-one-screen,
 .option-two-screen,
 .option-one-end,
-.option-two-end {
+.option-two-end,
+.continue-Button-screen {
     background-color: #fff;
     border: 1px solid #ccc;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     margin-bottom: 10px;
+    display: none;
 }
 
 /* Style the images in the screens */
