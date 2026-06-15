@@ -81,7 +81,8 @@ button:hover {
 .option-two-screen,
 .option-one-end,
 .option-two-end,
-.continue-button-screen {
+.continue-button-screen,
+.continue-button-screen2{
     background-color: #fff;
     border: 1px solid #ccc;
     padding: 20px;
