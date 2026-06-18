@@ -1,10 +1,56 @@
 
 html,
 body {
-    margin: 0;
+    margin: px;
     padding: 0;
+    
 }
 h1{
-    margin: 10px
-    
+    margin: ;
+    border-radius: 20% ;
+    background-color: rgb(153, 153, 197);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 500%;
+    font-weight:bold ;
+    border: 5px solid black
+
+}
+p{
+    margin: 10px ;
+    border-radius: 5%;
+    background-color: rgb(157, 166, 173);
+    color: black;
+    text-align: center;
+}
+h2 {
+    text-align:center;
+    color: black;
+    background-color: bisque;
+    border-color: black;
+    border: 5px ridge rgb(124, 124, 204)
+     
+
+}
+.Salt :hover{
+    margin: 10px;
+}
+.Salt{
+    display: flex;
+}
+.pepper :hover{
+    margin: 10px;
+}
+
+.nav-bar{
+    margin: 1px;
+    display: flex;
+    justify-content: space-between;
+ 
+
+}
+button{
+    margin: 
+
+
 }
