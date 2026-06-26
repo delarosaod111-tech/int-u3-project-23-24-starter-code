@@ -1,7 +1,7 @@
 
 html,
 body {
-    margin: px;
+    margin: 1 px;
     padding: 0;
     
 }
@@ -22,35 +22,45 @@ p{
     background-color: rgb(157, 166, 173);
     color: black;
     text-align: center;
+    font-size: 200%;
 }
 h2 {
     text-align:center;
     color: black;
     background-color: bisque;
     border-color: black;
-    border: 5px ridge rgb(124, 124, 204)
-     
+    border: 5px ridge rgb(124, 124, 204);
+    font-size: 500%;
 
 }
-.Salt :hover{
-    margin: 10px;
+h2:hover{
+    margin: 50px ;
+    border-radius: 5%;
+
 }
 .Salt{
     display: flex;
+    justify-content: space-around;
+    
 }
-.pepper :hover{
-    margin: 10px;
+
+.pepper{
+    display: flex;
+    justify-content: space-around;
 }
 
 .nav-bar{
-    margin: 1px;
+    margin: 4px;
     display: flex;
-    justify-content: space-between;
- 
+    justify-content: space-around;
 
 }
 button{
-    margin: 
+    margin: ;
+    font-size: 100%;
 
 
+}
+ul{
+    font-size: 200%;
 }
